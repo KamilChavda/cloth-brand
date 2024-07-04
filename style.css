@@ -1,0 +1,18 @@
+*{
+    text-decoration: none !important;
+    list-style: none !important;
+}
+    
+
+.fa-cart-shopping{
+    
+    border-radius: 100%;
+    background-color: yellow;
+
+}
+
+.btn{
+    background-color: #FFD400 ;
+    color: black;
+    border: none;
+}
